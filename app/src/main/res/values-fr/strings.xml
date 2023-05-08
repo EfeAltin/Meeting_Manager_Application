@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RDV Manager</string>
+    <string name="play_music">jouer de la musique</string>
+    <string name="stop">arrêt</string>
+    <string name="pause">pause</string>
+    <string name="title">titre</string>
+    <string name="date">date</string>
+    <string name="time">temps</string>
+    <string name="contact_person">personne de contact</string>
+    <string name="phone_number">numéro de téléphone</string>
+    <string name="address">adresse</string>
+    <string name="add_rdv">ajouter rdv</string>
+    <string name="add">ajouter</string>
+    <string name="edit_rdv">modifier rdv</string>
+    <string name="update">mise à jour</string>
+    <string name="delete">supprimer</string>
+    <string name="share">partager</string>
+    <string name="Are_you_sure_you_want_to_delete">Etes-vous sûr que vous voulez supprimer</string>
+    <string name="yes">oui</string>
+    <string name="no">non</string>
+    <string name="edit">modifier</string>
+</resources>

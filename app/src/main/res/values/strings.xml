@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RDV Manager</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
+    <string name="play_music">play music</string>
+    <string name="title">title</string>
+    <string name="date">date</string>
+    <string name="time">time</string>
+    <string name="contact_person">contact person</string>
+    <string name="phone_number">phone number</string>
+    <string name="address">address</string>
+    <string name="add_rdv">add rdv</string>
+    <string name="add">add</string>
+    <string name="edit_rdv">edit rdv</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="share">share</string>
+    <string name="Are_you_sure_you_want_to_delete">Are you sure you want to delete</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="edit">edit</string>
+
+
+
+</resources>
